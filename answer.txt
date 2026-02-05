@@ -6,3 +6,10 @@ Pros of Agile Development
 Cons of Agile Development
 1. Agile can be less predictable since the scope and timeline may change throughout the project.
 2. It requires a lot of communication and teamwork, which can be difficult to manage.
+
+Question 2
+Scrum Master - The Scrum Master makes sure the team follows the Scrum process and Agile practices. 
+They help remove obstacles that slow the team down and make sure meetings like stand-ups and sprint reviews happen smoothly.
+
+Product Owner - The Product Owner decides what features are most important and manages the product backlog. 
+They represent the customer’s needs and make sure the team is building the right thing.
