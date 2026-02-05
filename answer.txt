@@ -26,3 +26,16 @@ Daily Stand-Up
 Sprint Review / Retrospective
 1. The team shows what they completed during the sprint and gets feedback.
 2. They discuss what went well, what didn’t go well, and how to improve next sprint.
+
+Question 4
+Epic - A large piece of work that cannot be completed in one sprint.
+It is broken down into multiple smaller stories or tasks.
+
+Story - A feature or requirement written from the user’s point of view.
+It can usually be completed within one sprint.
+
+Task - A specific piece of work that needs to be done.
+Usually technical work that supports a story or epic.
+
+Bug - A problem or error in the system that needs to be fixed.
+It is created when something does not work as expected.
