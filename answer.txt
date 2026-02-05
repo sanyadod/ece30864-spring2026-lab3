@@ -1,0 +1,8 @@
+Question 1
+Pros of Agile Development
+1. Agile is flexible because changes can be made during development instead of being fixed at the beginning.
+2. It allows for frequent feedback, which helps teams fix problems early and improve the product.
+
+Cons of Agile Development
+1. Agile can be less predictable since the scope and timeline may change throughout the project.
+2. It requires a lot of communication and teamwork, which can be difficult to manage.
