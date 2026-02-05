@@ -13,3 +13,16 @@ They help remove obstacles that slow the team down and make sure meetings like s
 
 Product Owner - The Product Owner decides what features are most important and manages the product backlog. 
 They represent the customer’s needs and make sure the team is building the right thing.
+
+Question 3
+Sprint Planning 
+1. The team discusses which tasks or stories will be worked on in the sprint.
+2. They decide the sprint goal and estimate how much work each task will take.
+
+Daily Stand-Up
+1. Each team member shares what they worked on yesterday.
+2. They talk about what they will work on today and mention any blockers.
+
+Sprint Review / Retrospective
+1. The team shows what they completed during the sprint and gets feedback.
+2. They discuss what went well, what didn’t go well, and how to improve next sprint.
